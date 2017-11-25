@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"edu.seminolestate.SpellCheck","l":"DictionaryProcessor"},{"p":"edu.seminolestate.SpellCheck","l":"DictionaryTest"},{"p":"edu.seminolestate.SpellCheck","l":"GuDemo"}]
